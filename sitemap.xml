@@ -228,13 +228,6 @@
   </url>
   
   <url>
-    <loc>https://dtdivecenter.github.io/tags/PG/</loc>
-    <lastmod>2021-11-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dtdivecenter.github.io/tags/Coron/</loc>
     <lastmod>2021-11-15</lastmod>
     <changefreq>daily</changefreq>
@@ -257,6 +250,13 @@
   
   <url>
     <loc>https://dtdivecenter.github.io/tags/BALICASAG/</loc>
+    <lastmod>2021-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dtdivecenter.github.io/tags/PG/</loc>
     <lastmod>2021-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
