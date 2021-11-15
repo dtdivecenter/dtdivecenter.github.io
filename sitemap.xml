@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dtdivecenter.github.io/posts/8783f793/</loc>
+    
+    <lastmod>2021-11-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://dtdivecenter.github.io/posts/86e51971/</loc>
     
     <lastmod>2021-11-15</lastmod>
@@ -158,7 +165,7 @@
   </url>
   
   <url>
-    <loc>https://dtdivecenter.github.io/tags/PG/</loc>
+    <loc>https://dtdivecenter.github.io/tags/Coron/</loc>
     <lastmod>2021-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -179,7 +186,7 @@
   </url>
   
   <url>
-    <loc>https://dtdivecenter.github.io/tags/Coron/</loc>
+    <loc>https://dtdivecenter.github.io/tags/PG/</loc>
     <lastmod>2021-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
