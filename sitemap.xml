@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dtdivecenter.github.io/posts/5712c25c/</loc>
+    
+    <lastmod>2021-11-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://dtdivecenter.github.io/posts/772944db/</loc>
     
     <lastmod>2021-11-15</lastmod>
@@ -137,6 +144,13 @@
   </url>
   
   <url>
+    <loc>https://dtdivecenter.github.io/tags/PG/</loc>
+    <lastmod>2021-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dtdivecenter.github.io/tags/BOHOL/</loc>
     <lastmod>2021-11-15</lastmod>
     <changefreq>daily</changefreq>
@@ -145,13 +159,6 @@
   
   <url>
     <loc>https://dtdivecenter.github.io/tags/BALICASAG/</loc>
-    <lastmod>2021-11-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dtdivecenter.github.io/tags/PG/</loc>
     <lastmod>2021-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
