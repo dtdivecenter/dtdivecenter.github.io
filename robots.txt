@@ -9,4 +9,4 @@ Disallow: /vendors/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Sitemap: https://dtdivecenter.github.io/sitemap.xml
+Sitemap: https://dtdivecenter.com/sitemap.xml
